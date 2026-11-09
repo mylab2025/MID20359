@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "SiC Schottky Barrier Rectifier Diode",
+        "PN": "GSC2D2065",
+        "MF": "CHANGZHOU GALAXY CENTURY MICROELECTRONICS CO., Ltd."
+      },
+      "MID": "MID20359",
+      "MD": "The GSC2D2065 is a Silicon Carbide (SiC) Schottky Barrier Diode manufactured by Changzhou Galaxy Century Microelectronics Co., Ltd. (GMESEMI).\r\nVDC 650V\r\nIF @ 155°C 20A\r\nQC@400V 62nC\r\nTJ 175°C",
+      "MT": "",
+      "MQNT": 10,
+      "MCost": 82.32,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20359%2Fmain%2FGSC2D2065.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20359/main/IMG_20261109_111409.jpg"
+      ]
+    }
+  ]
+}
